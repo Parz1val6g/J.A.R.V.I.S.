@@ -1,0 +1,1 @@
+netsh wlan set hostednetwork mode=allow ssid="..." key="3aT$WE_T#$"
